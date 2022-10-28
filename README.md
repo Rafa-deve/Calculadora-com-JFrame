@@ -1,1 +1,6 @@
-# Calculadora com JFrame
+## Calculadora com JFrame
+
+- adição
+- subtração
+- multiplicação
+- divisão

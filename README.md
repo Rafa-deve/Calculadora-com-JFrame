@@ -1,7 +1,7 @@
 ## Calculadora com JFrame
 
 ## Interface grafica de uma calculadora usando JFrame:
-![image](https://user-images.githubusercontent.com/102997863/198647929-18b87ae9-1d37-4116-9514-9cfcd7c27fcc.png)
+![image](https://user-images.githubusercontent.com/102997863/198650052-23338d84-918e-46b2-a349-3751ce499a40.png)
 
 ## A calculadora efetua as seguintes operaçoões:
 
